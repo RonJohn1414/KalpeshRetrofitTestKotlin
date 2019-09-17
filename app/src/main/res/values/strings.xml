@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KalpeshRetrofitTestKotlin</string>
+    <string name="errorText">An error occurred while loading.</string>
+    <string name="bodyText">Body of information</string>
+    <string name="nameOfTitle">Name of title</string>
+    <string name="titleString">Title</string>
+    <string name="entry_id_number">Entry Id number</string>
+    <string name="entry_id">Entry Id:</string>
+    <string name="id_number">Id number</string>
+    <string name="user_id">User Id:</string>
+</resources>
